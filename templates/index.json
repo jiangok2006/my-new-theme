@@ -81,7 +81,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Featured",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -118,8 +118,8 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "the-collection-snowboard-hydrogen",
+            "second_image": true
           }
         },
         "collection-1": {
@@ -135,7 +135,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
