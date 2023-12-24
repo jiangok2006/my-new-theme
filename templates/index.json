@@ -54,7 +54,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "JetJone",
             "heading_size": "h1"
           }
         },
@@ -150,9 +150,10 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "enable_video_looping": false,
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/pexels-yaroslav-shuraev-7166421 (Original).mp4",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
+        "description": "a happy girl holding a snowboard",
         "full_width": false,
         "color_scheme": "scheme-1",
         "padding_top": 36,
