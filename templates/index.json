@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Hit the Slopes in Style! Find Your Perfect Snowboard Today.",
+            "heading": "Hit the Slopes in Style!",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "Find Your Perfect Snowboard Today.",
             "text_style": "body"
           }
         },
