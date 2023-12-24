@@ -196,10 +196,11 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg",
+            "title": "For kids",
+            "text": "<p>Provide your children with the ultimate skiing experience with our stylish and comfortable ski gear.<\/p>",
+            "link_label": "kids",
+            "link": "shopify:\/\/collections\/for-ladies"
           }
         }
       },
