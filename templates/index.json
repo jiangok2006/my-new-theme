@@ -14,7 +14,7 @@
           "type": "text",
           "settings": {
             "text": "Find Your Perfect Snowboard Today.",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "button": {
