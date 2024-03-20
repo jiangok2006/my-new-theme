@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Hit the Slopes in Style!",
+            "heading": "Hit the Slopes in Style and Comfort!",
             "heading_size": "h0"
           }
         },
@@ -54,14 +54,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "JetJone",
+            "heading": "Discover the Epitome of Style and Comfort with Our Branded Snowboard",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Discover the perfect balance of style and comfort with our Snowboard. Crafted using advanced materials and cutting-edge technology, it offers superior performance and a luxurious feel.<\/p>"
           }
         }
       },
@@ -81,12 +81,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Featured",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "featured",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
@@ -112,20 +112,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "for-gentlemen"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "the-collection-snowboard-hydrogen",
+            "second_image": true
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "for-ladies"
           }
         }
       },
@@ -135,7 +135,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -176,28 +176,31 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg",
+            "title": "For gentlemen",
+            "text": "<p>Indulge in the ultimate skiing experience with our stylish and comfortable ski gear crafted for men.<\/p>",
+            "link_label": "See more",
+            "link": "shopify:\/\/collections\/for-gentlemen"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg",
+            "title": "For ladies",
+            "text": "<p>Elevate your skiing experience with our ski equipment that combines style and comfort, curated exclusively for women.<\/p>",
+            "link_label": "See more",
+            "link": "shopify:\/\/collections\/for-ladies"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg",
+            "title": "For kids",
+            "text": "<p>Provide your children with the ultimate skiing experience with our stylish and comfortable ski gear.<\/p>",
+            "link_label": "See more",
+            "link": "shopify:\/\/collections\/for-kids"
           }
         }
       },
